@@ -38,6 +38,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Quy"/>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="quylan2"/>
 
     <LinearLayout
         android:layout_width="wrap_content"
